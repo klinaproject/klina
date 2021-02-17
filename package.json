@@ -28,6 +28,12 @@
       "role": "Viewer",
       "ext": "html"
     },
+      {
+      "name": "Quoted Page",
+      "description": "Quoted App",
+      "role": "Viewer",
+      "ext": "qtxt"
+    },
        {
       "name": "Quoted Page",
       "description": "Quoted App",
