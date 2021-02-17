@@ -40,13 +40,13 @@
       "role": "Viewer",
       "ext": "quo"
     },
-       {
+      {
       "name": "Quoted Page",
       "description": "Quoted App",
       "role": "Viewer",
       "ext": "qhtml"
-    }
-  },
+  }
+ ]
   "repository": "https://github.com/quotednote/quotedapp",
   "keywords": [
     "Quoted",
