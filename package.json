@@ -11,7 +11,35 @@
   },
   "build": {
     "appId": "me.neko.quotedapp",
-    "productName": "Quoted"
+    "productName": "Quoted",
+    "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": ["x64", "ia32"],
+        "oneClick": false
+      }
+    ]
+  },
+    "fileAssociations": [
+    {
+      "name": "Quoted Page",
+      "description": "Quoted App",
+      "role": "Viewer",
+      "ext": "html"
+    },
+       {
+      "name": "Quoted Page",
+      "description": "Quoted App",
+      "role": "Viewer",
+      "ext": "quo"
+    },
+       {
+      "name": "Quoted Page",
+      "description": "Quoted App",
+      "role": "Viewer",
+      "ext": "qhtml"
+    }
   },
   "repository": "https://github.com/quotednote/quotedapp",
   "keywords": [
