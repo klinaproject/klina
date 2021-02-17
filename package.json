@@ -1,0 +1,30 @@
+{
+  "name": "quotedapp",
+  "version": "1.0.0",
+  "description": "Quoted is a file type/reader that allows for sandboxed, more secure reading.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "win-build": "electron-builder -w",
+    "lin-build": "electron-builder -l",
+    "mac-build": "electron-builder -m"
+  },
+  "build": {
+    "appId": "me.neko.quotedapp",
+    "productName": "Quoted"
+  },
+  "repository": "https://github.com/quotednote/quotedapp",
+  "keywords": [
+    "Quoted",
+    "quick",
+    "start",
+    "ez",
+    "app"
+  ],
+  "author": "Quoted Project - Published by N3k0 <2qb@kittymail.com>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^11.2.3",
+    "electron-builder": "22.9.1"
+  }
+}
