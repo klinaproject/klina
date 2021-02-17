@@ -29,7 +29,7 @@
    "build": {
     "appId": "me.neko.quotedapp",
     "productName": "Quoted"
-   }
+   },
   "devDependencies": {
     "@cliqz/adblocker-electron": "^1.16.0",
     "@types/animejs": "^3.1.1",
