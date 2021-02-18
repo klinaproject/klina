@@ -1,2 +1,3 @@
-# quotedapp
-Quoted is a file type/reader that allows for more secure reading.
+# Jago Desktop
+
+Download here: https://home.jagosocial.tk/download
