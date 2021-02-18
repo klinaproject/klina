@@ -1,8 +1,8 @@
 {
-  "name": "quotedapp",
+  "name": "jagodesktop",
   "version": "1.0.0",
   "sideEffects": false,
-  "description": "Quoted official app",
+  "description": "Jago Desktop app",
   "keywords": [
     "web-browser",
     "material",
@@ -11,15 +11,15 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/quotednote/quotedapp#readme",
+  "homepage": "https://github.com/jagocorp/jagodesktop#readme",
   "main": "main.js",
-  "author": "N3k0 + Quoted Community <bcamarata0@gmail.com>",
+  "author": "N3k0 <bcamarata0@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quotednote/quotedapp.git"
+    "url": "git+https://github.com/jagocorp/jagodesktop.git"
   },
   "bugs": {
-    "url": "https://github.com/quotednote/quotedapp/issues"
+    "url": "https://github.com/jagocorp/jagodesktop/issues"
   },
   "scripts": {
    "win-build": "electron-builder -w",
@@ -27,8 +27,8 @@
     "mac-build": "electron-builder -m"
   },
    "build": {
-    "appId": "me.neko.quotedapp",
-    "productName": "Quoted"
+    "appId": "social.jago.jago",
+    "productName": "Jago"
    },
   "devDependencies": {
     "electron": "9.3.1",
