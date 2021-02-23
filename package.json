@@ -32,9 +32,7 @@
    },
   "devDependencies": {
     "electron": "9.3.1",
-    "electron-builder": "22.7.0",
-    "discord-rich-presence": "^0.0.8",
-    "jquery": "^3.3.1"
+    "electron-builder": "22.7.0"
   },
   "dependencies": {}
 }
