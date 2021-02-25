@@ -1,8 +1,8 @@
 {
-  "name": "jagodesktop",
-  "version": "1.2.0",
+  "name": "klina",
+  "version": "1.0.0",
   "sideEffects": false,
-  "description": "Jago Desktop app",
+  "description": "oh howdy there description friend",
   "keywords": [
     "web-browser",
     "material",
@@ -11,15 +11,15 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/jagocorp/jagodesktop#readme",
+  "homepage": "https://github.com/klinaproject/klina#readme",
   "main": "main.js",
-  "author": "N3k0 <bcamarata0@gmail.com>",
+  "author": "klina <bcamarata0@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jagocorp/jagodesktop.git"
+    "url": "git+https://github.com/klinaproject/klina.git"
   },
   "bugs": {
-    "url": "https://github.com/jagocorp/jagodesktop/issues"
+    "url": "https://github.com/klinaproject/klina/issues"
   },
   "scripts": {
    "win-build": "electron-builder -w",
