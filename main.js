@@ -1,7 +1,6 @@
 // Modules to control application life and create native browser window
 const {app, BrowserWindow} = require('electron')
 const path = require('path')
-const client = require('discord-rich-presence')('813871879408320512');
 
 function createWindow () {
   // Create the browser window.
