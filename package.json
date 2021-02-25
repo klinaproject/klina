@@ -27,8 +27,8 @@
     "mac-build": "electron-builder -m"
   },
    "build": {
-    "appId": "social.jago.jago",
-    "productName": "Jago"
+    "appId": "com.klina.jago",
+    "productName": "Klina for Jago"
    },
   "devDependencies": {
     "electron": "9.3.1",
